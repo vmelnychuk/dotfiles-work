@@ -1,0 +1,13 @@
+-Xms4g
+-Xmx8g
+-XX:ReservedCodeCacheSize=1024m
+-XX:+UseCompressedOops
+-XX:+UseConcMarkSweepGC
+-XX:SoftRefLRUPolicyMSPerMB=50
+-ea
+-Dsun.io.useCanonCaches=false
+-Djava.net.preferIPv4Stack=true
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:-OmitStackTraceInFastThrow
+-Dawt.useSystemAAFontSettings=lcd
+
