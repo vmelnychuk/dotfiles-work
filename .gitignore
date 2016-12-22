@@ -1,8 +1,11 @@
-# OS files
+# Files to ignore with git
 
-# Temp files
+## OS files
 
-# Misc files
+## Temp files
+*.swp
 
-# Binaries
+## Misc files
+
+## Binaries
 
