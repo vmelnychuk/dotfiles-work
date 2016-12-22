@@ -21,8 +21,8 @@ export GOPATH=$WORK_SPACE/go
 PATH=$PATH:$GO_HOME/bin
 
 ## Swift
-export SWIFT_HOME=$SOFT_HOME/swift
-PATH=$SWIFT_HOME/usr/bin:$PATH
+export SWIFT_HOME=$SOFT_HOME/swift/usr
+PATH=$SWIFT_HOME/bin:$PATH
 
 # Zookeeper
 export ZOOKEEPER_HOME=$SOFT_HOME/zookeeper
